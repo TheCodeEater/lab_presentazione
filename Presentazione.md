@@ -6,7 +6,7 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
+![width:200px](report\images\cross_dataonly.png)
 
 # **Marp**
 
