@@ -1,0 +1,3 @@
+[submodule "report"]
+	path = report
+	url = https://github.com/TheCodeEater/lab_circuiti_relazione.git
