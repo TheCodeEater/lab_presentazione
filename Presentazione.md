@@ -38,6 +38,21 @@ style: |
 
 ---
 
+# Scopo del circuito
+
+<div class="two-columns">
+    <div>
+        <div style="height: 70%; display: flex; justify-content: center; align-items: center;">
+            Il filtro crossover è un circuito che separa un segnale in ingresso nelle sue componenti in base alla frequenza.
+
+Utilizza un filtro passa alto (Tweeter) e uno passa basso (Woofer) in parallelo, con due resistenze di carico uguali (100 Ohm). La resistenza dell’induttanza è trascurabile (1 Ohm), così come quella della capacità.
+        </div>
+    </div>
+    <img src="report\images\Schema_crossover.png">
+</div>
+
+---
+
 # Il circuito
 
 <div class="two-columns">
