@@ -26,7 +26,7 @@ style: |
 ---
 <!-- class: lead -->
 
-# Obbiettivo dell'esperimento
+# Obiettivo dell'esperimento
 
 <div class="two-columns">
     <div style=" display: flex; justify-content: center; align-items: center;">
@@ -38,7 +38,7 @@ style: |
 
 ---
 
-# Il cricuito
+# Il circuito
 
 <div class="two-columns">
     <div>
