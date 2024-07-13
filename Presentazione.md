@@ -46,7 +46,8 @@ style: |
         <div style="height: 70%; display: flex; justify-content: center; align-items: center;">
             R ≃ 100 Ω<br>
             C ≃ 1 μF<br>
-            L ≃ 10 mH
+            L ≃ 10 mH<br>
+            R_gen ≃ 50 Ω
         </div>
     </div>
     <img src="report\images\Schema_crossover.png">
